@@ -1,2 +1,2 @@
 # vcfsql
-A simple VCF contact file parser
+A simple VCF contact file ~parser~
